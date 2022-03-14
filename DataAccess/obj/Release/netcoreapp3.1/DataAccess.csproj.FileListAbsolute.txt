@@ -1,0 +1,16 @@
+C:\Users\Fabian Obando\source\repos\TechnicalTestITSense_APIRest\DataAccess\bin\Release\netcoreapp3.1\DataAccess.deps.json
+C:\Users\Fabian Obando\source\repos\TechnicalTestITSense_APIRest\DataAccess\bin\Release\netcoreapp3.1\DataAccess.runtimeconfig.json
+C:\Users\Fabian Obando\source\repos\TechnicalTestITSense_APIRest\DataAccess\bin\Release\netcoreapp3.1\DataAccess.runtimeconfig.dev.json
+C:\Users\Fabian Obando\source\repos\TechnicalTestITSense_APIRest\DataAccess\bin\Release\netcoreapp3.1\DataAccess.dll
+C:\Users\Fabian Obando\source\repos\TechnicalTestITSense_APIRest\DataAccess\bin\Release\netcoreapp3.1\DataAccess.pdb
+C:\Users\Fabian Obando\source\repos\TechnicalTestITSense_APIRest\DataAccess\bin\Release\netcoreapp3.1\Core.dll
+C:\Users\Fabian Obando\source\repos\TechnicalTestITSense_APIRest\DataAccess\bin\Release\netcoreapp3.1\Core.pdb
+C:\Users\Fabian Obando\source\repos\TechnicalTestITSense_APIRest\DataAccess\obj\Release\netcoreapp3.1\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Fabian Obando\source\repos\TechnicalTestITSense_APIRest\DataAccess\obj\Release\netcoreapp3.1\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabian Obando\source\repos\TechnicalTestITSense_APIRest\DataAccess\obj\Release\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Fabian Obando\source\repos\TechnicalTestITSense_APIRest\DataAccess\obj\Release\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+C:\Users\Fabian Obando\source\repos\TechnicalTestITSense_APIRest\DataAccess\obj\Release\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Fabian Obando\source\repos\TechnicalTestITSense_APIRest\DataAccess\obj\Release\netcoreapp3.1\DataAccess.csproj.CopyComplete
+C:\Users\Fabian Obando\source\repos\TechnicalTestITSense_APIRest\DataAccess\obj\Release\netcoreapp3.1\DataAccess.dll
+C:\Users\Fabian Obando\source\repos\TechnicalTestITSense_APIRest\DataAccess\obj\Release\netcoreapp3.1\DataAccess.pdb
+C:\Users\Fabian Obando\source\repos\TechnicalTestITSense_APIRest\DataAccess\obj\Release\netcoreapp3.1\DataAccess.genruntimeconfig.cache

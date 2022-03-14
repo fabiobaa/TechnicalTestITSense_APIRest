@@ -1,3 +1,4 @@
+C:\Users\Fabian Obando\source\repos\TechnicalTestITSense_APIRest\TechnicalTestITSense_APIRest\bin\Debug\netcoreapp3.1\.filenesting.json
 C:\Users\Fabian Obando\source\repos\TechnicalTestITSense_APIRest\TechnicalTestITSense_APIRest\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\Fabian Obando\source\repos\TechnicalTestITSense_APIRest\TechnicalTestITSense_APIRest\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\Fabian Obando\source\repos\TechnicalTestITSense_APIRest\TechnicalTestITSense_APIRest\bin\Debug\netcoreapp3.1\TechnicalTestITSense_APIRest.exe
@@ -69,4 +70,3 @@ C:\Users\Fabian Obando\source\repos\TechnicalTestITSense_APIRest\TechnicalTestIT
 C:\Users\Fabian Obando\source\repos\TechnicalTestITSense_APIRest\TechnicalTestITSense_APIRest\obj\Debug\netcoreapp3.1\TechnicalTestITSense_APIRest.dll
 C:\Users\Fabian Obando\source\repos\TechnicalTestITSense_APIRest\TechnicalTestITSense_APIRest\obj\Debug\netcoreapp3.1\TechnicalTestITSense_APIRest.pdb
 C:\Users\Fabian Obando\source\repos\TechnicalTestITSense_APIRest\TechnicalTestITSense_APIRest\obj\Debug\netcoreapp3.1\TechnicalTestITSense_APIRest.genruntimeconfig.cache
-C:\Users\Fabian Obando\source\repos\TechnicalTestITSense_APIRest\TechnicalTestITSense_APIRest\bin\Debug\netcoreapp3.1\.filenesting.json
