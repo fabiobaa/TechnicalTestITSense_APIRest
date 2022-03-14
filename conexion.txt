@@ -1,0 +1,11 @@
+TechnicalTestITSense_Frond
+TechnicalTestITSense_APIRest
+TechnicalTestITSense_DataBase
+
+Product
+EntryProduct
+ExitProduct
+SatusProduct
+
+
+Scaffold-DbContext "Server=localhost;Database=TechnicalTestITSense;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models

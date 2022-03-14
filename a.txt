@@ -1,0 +1,6 @@
+TechnicalTestITSense_Front
+13.1.1
+
+Angular CLI version 9.1.15
+Angular version 9.1.13
+Node.js version 10.13.0

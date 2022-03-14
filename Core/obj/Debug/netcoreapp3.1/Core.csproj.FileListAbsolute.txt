@@ -1,0 +1,10 @@
+C:\Users\Fabian Obando\source\repos\TechnicalTestITSense_APIRest\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+C:\Users\Fabian Obando\source\repos\TechnicalTestITSense_APIRest\Core\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\Fabian Obando\source\repos\TechnicalTestITSense_APIRest\Core\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\Fabian Obando\source\repos\TechnicalTestITSense_APIRest\Core\obj\Debug\netcoreapp3.1\Core.csproj.AssemblyReference.cache
+C:\Users\Fabian Obando\source\repos\TechnicalTestITSense_APIRest\Core\obj\Debug\netcoreapp3.1\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabian Obando\source\repos\TechnicalTestITSense_APIRest\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\Users\Fabian Obando\source\repos\TechnicalTestITSense_APIRest\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\Users\Fabian Obando\source\repos\TechnicalTestITSense_APIRest\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\Fabian Obando\source\repos\TechnicalTestITSense_APIRest\Core\obj\Debug\netcoreapp3.1\Core.dll
+C:\Users\Fabian Obando\source\repos\TechnicalTestITSense_APIRest\Core\obj\Debug\netcoreapp3.1\Core.pdb
