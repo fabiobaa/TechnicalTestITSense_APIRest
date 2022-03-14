@@ -28,7 +28,11 @@ C:\Users\Fabian Obando\source\repos\TechnicalTestITSense_APIRest\TechnicalTestIT
 C:\Users\Fabian Obando\source\repos\TechnicalTestITSense_APIRest\TechnicalTestITSense_APIRest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
 C:\Users\Fabian Obando\source\repos\TechnicalTestITSense_APIRest\TechnicalTestITSense_APIRest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\Fabian Obando\source\repos\TechnicalTestITSense_APIRest\TechnicalTestITSense_APIRest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Fabian Obando\source\repos\TechnicalTestITSense_APIRest\TechnicalTestITSense_APIRest\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
 C:\Users\Fabian Obando\source\repos\TechnicalTestITSense_APIRest\TechnicalTestITSense_APIRest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Fabian Obando\source\repos\TechnicalTestITSense_APIRest\TechnicalTestITSense_APIRest\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Fabian Obando\source\repos\TechnicalTestITSense_APIRest\TechnicalTestITSense_APIRest\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Fabian Obando\source\repos\TechnicalTestITSense_APIRest\TechnicalTestITSense_APIRest\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\Fabian Obando\source\repos\TechnicalTestITSense_APIRest\TechnicalTestITSense_APIRest\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
 C:\Users\Fabian Obando\source\repos\TechnicalTestITSense_APIRest\TechnicalTestITSense_APIRest\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
 C:\Users\Fabian Obando\source\repos\TechnicalTestITSense_APIRest\TechnicalTestITSense_APIRest\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
@@ -57,6 +61,7 @@ C:\Users\Fabian Obando\source\repos\TechnicalTestITSense_APIRest\TechnicalTestIT
 C:\Users\Fabian Obando\source\repos\TechnicalTestITSense_APIRest\TechnicalTestITSense_APIRest\obj\Debug\netcoreapp3.1\TechnicalTestITSense_APIRest.AssemblyInfoInputs.cache
 C:\Users\Fabian Obando\source\repos\TechnicalTestITSense_APIRest\TechnicalTestITSense_APIRest\obj\Debug\netcoreapp3.1\TechnicalTestITSense_APIRest.AssemblyInfo.cs
 C:\Users\Fabian Obando\source\repos\TechnicalTestITSense_APIRest\TechnicalTestITSense_APIRest\obj\Debug\netcoreapp3.1\TechnicalTestITSense_APIRest.csproj.CoreCompileInputs.cache
+C:\Users\Fabian Obando\source\repos\TechnicalTestITSense_APIRest\TechnicalTestITSense_APIRest\obj\Debug\netcoreapp3.1\TechnicalTestITSense_APIRest.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Fabian Obando\source\repos\TechnicalTestITSense_APIRest\TechnicalTestITSense_APIRest\obj\Debug\netcoreapp3.1\TechnicalTestITSense_APIRest.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Fabian Obando\source\repos\TechnicalTestITSense_APIRest\TechnicalTestITSense_APIRest\obj\Debug\netcoreapp3.1\staticwebassets\TechnicalTestITSense_APIRest.StaticWebAssets.Manifest.cache
 C:\Users\Fabian Obando\source\repos\TechnicalTestITSense_APIRest\TechnicalTestITSense_APIRest\obj\Debug\netcoreapp3.1\TechnicalTestITSense_APIRest.RazorTargetAssemblyInfo.cache
@@ -64,3 +69,4 @@ C:\Users\Fabian Obando\source\repos\TechnicalTestITSense_APIRest\TechnicalTestIT
 C:\Users\Fabian Obando\source\repos\TechnicalTestITSense_APIRest\TechnicalTestITSense_APIRest\obj\Debug\netcoreapp3.1\TechnicalTestITSense_APIRest.dll
 C:\Users\Fabian Obando\source\repos\TechnicalTestITSense_APIRest\TechnicalTestITSense_APIRest\obj\Debug\netcoreapp3.1\TechnicalTestITSense_APIRest.pdb
 C:\Users\Fabian Obando\source\repos\TechnicalTestITSense_APIRest\TechnicalTestITSense_APIRest\obj\Debug\netcoreapp3.1\TechnicalTestITSense_APIRest.genruntimeconfig.cache
+C:\Users\Fabian Obando\source\repos\TechnicalTestITSense_APIRest\TechnicalTestITSense_APIRest\bin\Debug\netcoreapp3.1\.filenesting.json

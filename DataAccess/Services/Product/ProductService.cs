@@ -36,8 +36,8 @@ namespace DataAccess.Services.Product
             {
                 product.dateExitProduct = null;
             }
-               
-             product.idStatusProduct = idStatusProduct;
+
+            product.idStatusProduct = idStatusProduct;
 
 
             ResponseRequest responseRequest = new ResponseRequest();
@@ -61,7 +61,7 @@ namespace DataAccess.Services.Product
                 nameProduct = nameProduct,
                 idStatusProduct = 1,
                 dateEntryProduct = DateTime.Now
-        };
+            };
             _ = this._context.Products.AddAsync(product);
 
             ResponseRequest responseRequest = new ResponseRequest();
@@ -106,7 +106,7 @@ namespace DataAccess.Services.Product
                 DateExitProduct = x.dateExitProduct,
                 NameStatusProduct = this._context.StatusProducts.Where
                 (s => s.idStatusProduct == x.idStatusProduct).Select(s => s.nameStatusProduct).FirstOrDefault()
-            }).OrderByDescending(x=> x.IdProduct).ToListAsync();
+            }).OrderByDescending(x => x.IdProduct).ToListAsync();
 
             products.Count.ListIfIsEmpty();
             return products;
